@@ -67,7 +67,3 @@ Para acessar endpoints protegidos como um usuário ADMIN, forneça as credenciai
 ## Banco de Dados
 
 O projeto utiliza PostgreSQL como banco de dados. As migrações necessárias do banco de dados são gerenciadas pelo Flyway.
-
-## Créditos
-
-Este projeto foi desenvolvido com base no tutorial da Fernanda Kipper. Confira o vídeo tutorial [aqui](https://www.youtube.com/watch?v=5w-YCcOjPD0&t=1s&ab_channel=FernandaKipper%7CDev).
